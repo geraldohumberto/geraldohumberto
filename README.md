@@ -2,7 +2,7 @@
 
 
 - 🔭 Hoje eu trabalho como fullstack usando linguagem Python
-- 🌱 Estou estudando Java e C#
+- 🌱 Estou estudando Java, C# e JavaScript.
 - 📫 Contate-me no e-mail: geraldohum@gmail.com
 - 😄 Pronouns: ele/dele
 -->
